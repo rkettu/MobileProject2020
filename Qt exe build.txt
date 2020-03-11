@@ -1,0 +1,1 @@
+@Phat@windeployqt.exe -quick .
